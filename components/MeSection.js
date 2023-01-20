@@ -12,22 +12,22 @@ const MeSection = () => {
             Front End Web Developer
           </h1>
           <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber midnight nevermore
-            nevermore. Dared pallas nothing door me oer myself so, name streaming door back
-            beguiling was unseen at, evilprophet is than burden little the and me at, there above
-            heaven in more no, nevermore sinking fowl the door oer.
+            Nepenthe above my pallas of guessing shore. Then chamber midnight nevermore nevermore.
+            Dared pallas nothing door me oer myself so, name streaming door back beguiling was
+            unseen at, evilprophet is than burden little the and me at, there above heaven in more
+            no, nevermore sinking fowl the door oer.
           </p>
           <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber midnight nevermore
-            nevermore. Dared pallas nothing door me oer myself so, name streaming door back
-            beguiling was unseen at, evilprophet is than burden little the and me at, there above
-            heaven in more no, nevermore sinking fowl the door oer.
+            Nepenthe above my pallas of guessing shore. Then chamber midnight nevermore nevermore.
+            Dared pallas nothing door me oer myself so, name streaming door back beguiling was
+            unseen at, evilprophet is than burden little the and me at, there above heaven in more
+            no, nevermore sinking fowl the door oer.
           </p>
           <p className="py-4 max-w-2xl mx-auto">
-            Nepenthe above my pallas of rapping guessing shore. Then chamber midnight nevermore
-            nevermore. Dared pallas nothing door me oer myself so, name streaming door back
-            beguiling was unseen at, evilprophet is than burden little the and me at, there above
-            heaven in more no, nevermore sinking fowl the door oer.
+            Nepenthe above my pallas of guessing shore. Then chamber midnight nevermore nevermore.
+            Dared pallas nothing door me oer myself so, name streaming door back beguiling was
+            unseen at, evilprophet is than burden little the and me at, there above heaven in more
+            no, nevermore sinking fowl the door oer.
           </p>
         </div>
 
