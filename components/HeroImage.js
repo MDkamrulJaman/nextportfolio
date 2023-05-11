@@ -16,10 +16,11 @@ function MyImage() {
           <h1 className="uppercase font-bold text-gray-700 text-6xl ">Front end developer</h1>
 
           <p className="text-gray-600 text-xl max-w-sm mx-auto">
-            I am a highly motivated student in the Bachelor of Computer Science and Engineering
-            (CSE). I have 2 years of experience building and desgining Websites. Currently, I love
-            to work on web application using technologies like React JS, Next JS, Express JS, MUI
-            and Tailwind.
+            I am a highly motivated student in the Bachelor of Computer Science and
+            Engineering.Currently, I love to work on web application using technologies like{" "}
+            <span className="text-green-900 text-2xl">
+              React JS, Next JS, Express JS, MUI and Tailwind.
+            </span>
           </p>
 
           <Link href="/me">

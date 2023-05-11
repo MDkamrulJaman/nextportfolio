@@ -2,9 +2,9 @@ import React from "react";
 
 import { MdExpandMore } from "react-icons/md";
 import installNode from "../public/assets/portfolio/installNode.jpg";
-import reactParallax from "../public/assets/portfolio/reactParallax.jpg";
+import mern from "../public/assets/portfolio/mern.png";
 import usestate from "../public/assets/portfolio/usestate.jpg";
-import reactWeather from "../public/assets/portfolio/reactWeather.jpg";
+import counterapp from "../public/assets/portfolio/counterapp.png";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -12,27 +12,27 @@ const PortfolioSection = () => {
   const portfolios = [
     {
       id: 1,
-      title: "react weather app",
-      imageSrc: reactWeather,
-      url: "https://translate.google.com/",
+      title: "Counter App",
+      imageSrc: counterapp,
+      url: "https://counter-app-next-redux-sable.vercel.app/",
     },
     {
       id: 2,
       title: "install node",
       imageSrc: installNode,
-      url: "https://translate.google.com/",
+      url: "https://nodejs.dev/en/",
     },
     {
       id: 3,
-      title: "use state explained",
+      title: "Use State explained",
       imageSrc: usestate,
-      url: "https://translate.google.com/",
+      url: "https://legacy.reactjs.org/docs/hooks-state.html",
     },
     {
       id: 4,
-      title: "react parallax scroll",
-      imageSrc: reactParallax,
-      url: "https://translate.google.com/",
+      title: "Mern-Authentication",
+      imageSrc: mern,
+      url: "https://github.com/MDkamrulJaman/Mern-Authentication",
     },
   ];
 

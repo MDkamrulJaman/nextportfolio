@@ -42,7 +42,7 @@ const Navbar = () => {
         <Link href="/">
           <h1 className="text-3xl lg:text-2xl font-bold uppercase tracking-wider cursor-pointer">
             <a>
-              MD Kamrul Jaman<span className="text-blue-500">Rabbi</span>
+              MD Kamrul Jaman<span className="text-blue-500 px-1">Rabbi</span>
             </a>
           </h1>
         </Link>

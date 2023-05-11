@@ -17,31 +17,31 @@ const ExperienceSection = () => {
       id: 1,
       title: "HTML",
       src: html,
-      path: "https://translate.google.com/",
+      path: "https://developer.mozilla.org/en-US/docs/Web/HTML",
     },
     {
       id: 2,
       title: "CSS",
       src: css,
-      path: "https://translate.google.com/",
+      path: "https://developer.mozilla.org/en-US/docs/Web/CSS",
     },
     {
       id: 3,
       title: "JavaScript",
       src: javascript,
-      path: "https://translate.google.com/",
+      path: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     },
     {
       id: 4,
       title: "React",
       src: reactImage,
-      path: "https://translate.google.com/",
+      path: "https://legacy.reactjs.org/",
     },
     {
       id: 5,
       title: "Next JS",
       src: nextjs,
-      path: "https://translate.google.com/",
+      path: "https://nextjs.org/",
     },
     {
       id: 6,
@@ -53,20 +53,19 @@ const ExperienceSection = () => {
       id: 7,
       title: "GraphQL",
       src: graphql,
-      path: "https://translate.google.com/",
+      path: "https://graphql.org/",
     },
     {
       id: 8,
       title: "Node JS",
       src: node,
-      path: "https://translate.google.com/",
+      path: "https://nodejs.dev/en/learn/",
     },
   ];
 
   return (
     <div id="experience" className="w-full py-12">
       <div className="max-w-screen-xl mx-auto px-8 py-16 text-center md:text-left">
- 
         <p className="py-4 ">
           While only that hauntedtell many purple no lent cushions more heart. Soul cushions the
           still if i, hath lamplight mortals the rapping have me and.

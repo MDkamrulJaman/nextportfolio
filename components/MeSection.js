@@ -15,8 +15,13 @@ const MeSection = () => {
             I am Md Kamrul Jaman Rabbi,
           </p>
           <p className="py-4 max-w-2xl mx-auto">
-            I love to work on web application using technologies like React JS, Next JS, Express JS,
-            MUI and Tailwind. Also working With Redux for state management.
+            I am a highly motivated student in the Bachelor of Computer Science and Engineering
+            (CSE) at Green University of Bangladesh. Currently, I love to work on web application
+            using technologies like
+            <span className="text-blue-900 px-1">
+              React JS, Next JS, Express JS, MUI and Tailwind.
+            </span>
+            . Also working With Redux for state management.
           </p>
 
           <p className="py-4 max-w-2xl mx-auto">
