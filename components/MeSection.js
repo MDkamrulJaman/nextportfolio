@@ -15,9 +15,8 @@ const MeSection = () => {
             I am Md Kamrul Jaman Rabbi,
           </p>
           <p className="py-4 max-w-2xl mx-auto">
-            I have 2 years of experience building and desgining Websites. Currently, I love to work
-            on web application using technologies like React JS, Next JS, Express JS, MUI and
-            Tailwind. Also working With Redux for state management.
+            I love to work on web application using technologies like React JS, Next JS, Express JS,
+            MUI and Tailwind. Also working With Redux for state management.
           </p>
 
           <p className="py-4 max-w-2xl mx-auto">

@@ -40,9 +40,9 @@ const Navbar = () => {
     >
       <div className="flex justify-between items-center w-full h-full max-w-screen-xl mx-auto px-4">
         <Link href="/">
-          <h1 className="text-3xl lg:text-4xl font-bold uppercase tracking-wider cursor-pointer">
+          <h1 className="text-3xl lg:text-2xl font-bold uppercase tracking-wider cursor-pointer">
             <a>
-              Kamrul<span className="text-blue-500">_Jaman</span>
+              MD Kamrul Jaman<span className="text-blue-500">Rabbi</span>
             </a>
           </h1>
         </Link>
