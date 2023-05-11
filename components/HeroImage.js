@@ -16,8 +16,10 @@ function MyImage() {
           <h1 className="uppercase font-bold text-gray-700 text-6xl ">Front end developer</h1>
 
           <p className="text-gray-600 text-xl max-w-sm mx-auto">
-            I have 8 years of experience building and desgining software. Currently, I love to work
-            on web application using technologies like React, Tailwind, Next JS and GraphQL.
+            I am a highly motivated student in the Bachelor of Computer Science and Engineering
+            (CSE). I have 2 years of experience building and desgining Websites. Currently, I love
+            to work on web application using technologies like React JS, Next JS, Express JS, MUI
+            and Tailwind.
           </p>
 
           <Link href="/me">
